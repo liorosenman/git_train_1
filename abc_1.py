@@ -5,3 +5,6 @@ def main():
     f = 40
     a = b + c
     d = e + f
+    x = 100
+    y = 200 
+    z = x + y
